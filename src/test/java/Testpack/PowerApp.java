@@ -77,6 +77,7 @@ public class PowerApp
 			driver.findElementByName("About PowerTerm InterConnect Demo...").click();
 			driver.findElementByName("OK").click();
 			System.out.println("Help Status: OK");
+			
 			System.out.println(" Message");
 
 		
